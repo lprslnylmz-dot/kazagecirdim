@@ -12,6 +12,8 @@ Kaza geçirenlere ücretsiz rehberlik eden, işverenlere ise kaza müdahale ve r
 | Kaza müdahale dosyası | İşveren, İSG uzmanı | İşveren | `/panel/olaylar` |
 | İşveren tanıtım ve fiyatlar | İşveren | — | `/isveren` |
 
+> Kodda çalışacak yazılımcılar için: **[Geliştirici Rehberi](docs/GELISTIRICI-REHBERI.md)** (mimari, kurallar, tarifler, yayına alma).
+
 ## Hızlı başlangıç
 
 Gereksinim: Node.js 20 veya üzeri.
